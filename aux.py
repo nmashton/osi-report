@@ -54,7 +54,7 @@ def parse_content(node):
 	newnode = copy(node)
 	try_title = re.search(r'(?<=^# ).*\n', newnode["content"])
 	# strip out any title-level lines.
-###	try_content = re.sub(r'^# .*\n', r'', try_content, flags=re.MULTILINE)
+	try_content = re.sub(r'^# .*\n', r'', newnode["content"], flags=re.MULTILINE)
 	if try_title:
 		newnode['title'] = re.sub(r'"', r'', try_title.group(0)).strip()
 	else:
