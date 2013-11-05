@@ -1,4 +1,4 @@
-Analysis
+# Analysis
 
 ![The data processing pipeline: analysis](http://i.imgur.com/KFY5GJF.jpg)
 

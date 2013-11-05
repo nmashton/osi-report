@@ -1,3 +1,5 @@
+# The data processing pipeline
+
 ![The data processing pipeline](http://i.imgur.com/JXmQs6e.jpg)
 
 While there are many different types of data, almost all data processing involves the same set of incremental stages.
