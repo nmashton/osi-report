@@ -1,3 +1,5 @@
+# Spending Data Handbook
+
 The Spending Data Handbook is addressed to people and organisations who want to use and understand government budgets and spending data in their work.
 
 * Introduction
